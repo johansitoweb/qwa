@@ -1,0 +1,25 @@
+body{
+    padding:0;
+    margin:0;
+    
+}
+
+.container{
+    width:70px;
+    height:auto;
+}
+/*botones*/
+.boton-primary{
+    background-color:aqua;
+    border-radius:10px;
+    border:none;
+    color:white;
+}
+
+.boton-secondary{
+    background-color:aqua;
+    border-radius:10px;
+    border:none;
+    color:white;
+}
+
